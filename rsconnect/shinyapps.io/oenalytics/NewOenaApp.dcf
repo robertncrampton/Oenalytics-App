@@ -1,0 +1,12 @@
+name: NewOenaApp
+title: NewOenaApp
+username:
+account: oenalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 383196
+bundleId: 1487271
+url: https://oenalytics.shinyapps.io/NewOenaApp/
+when: 1531934673.84287
+asMultiple: FALSE
+asStatic: FALSE

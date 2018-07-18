@@ -1,0 +1,10 @@
+data <- data.table(read.csv("data/realdata.csv"))
+producer <- data.frame(unique(as.character(data$Producer)))
+variety <- data.frame(unique(as.character(data$Variety)))
+designation <- data.frame(unique(as.character(data$Designation)))
+vineyard<- data.frame(unique(as.character(data$Vineyard)))
+country <- data.frame(unique(as.character(data$Country)))
+region <- data.frame(unique(as.character(data$Region)))
+subregion <- data.frame(unique(as.character(data$SubRegion)))
+appelation <- data.frame(unique(as.character(data$Appelation)))
+
